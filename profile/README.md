@@ -13,7 +13,10 @@
 
 # ModifiedCommand
 
-## Projects
+## Converting Java Texture Packs To Bedrock Projects
 - [ConvertJavaTextureToBedrock](https://github.com/ModifiedCommand/ConvertJavaTextureToBedrock) - Web app for converting Minecraft Java texture packs to Bedrock texture packs
 - [ConvertJavaTextureToBedrockApi](https://github.com/ModifiedCommand/ConvertJavaTextureToBedrockApi) - API for convert Minecraft Java texture packs to Bedrock texture packs
 - [convert-base-api](https://github.com/ModifiedCommand/convert-base-api) - Base API for Convert Java Texture To Bedrock API
+
+## Bedrock Addon Projects
+- [FoodAddon](https://github.com/ModifiedCommand/FoodAddon) - Modified Command Food Addon
