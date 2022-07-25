@@ -11,7 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-# ModifiedCommand
+# Modified Command
 
 ## Converting Java Texture Packs To Bedrock Projects
 - [ConvertJavaTextureToBedrock](https://github.com/ModifiedCommand/ConvertJavaTextureToBedrock) - Web app for converting Minecraft Java texture packs to Bedrock texture packs
