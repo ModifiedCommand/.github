@@ -11,7 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-# Modified Command
+# [Modified Command](https://github.com/ModifiedCommand)
 
 ## Converting Java Texture Packs To Bedrock Projects
 - [ConvertJavaTextureToBedrock](https://github.com/ModifiedCommand/ConvertJavaTextureToBedrock) - Web app for converting Minecraft Java texture packs to Bedrock texture packs
@@ -20,3 +20,6 @@
 
 ## Bedrock Addon Projects
 - [FoodAddon](https://github.com/ModifiedCommand/FoodAddon) - Modified Command Food Addon
+
+## Other Minecraft Project
+- [PapyrusCS](https://github.com/ModifiedCommand/PapyrusCS) - PapyrusCS renders maps of Minecraft: Bedrock Edition worlds using C#, LevelDB and leaflet.
