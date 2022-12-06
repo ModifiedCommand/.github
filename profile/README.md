@@ -34,3 +34,6 @@
 
 ## Other Minecraft Project
 - [PapyrusCS](https://github.com/ModifiedCommand/PapyrusCS) - PapyrusCS renders maps of Minecraft: Bedrock Edition worlds using C#, LevelDB and leaflet.
+- [SplashText](https://github.com/ModifiedCommand/SplashText) - All Minecraft Splashes for Java Edition in text file format
+- [MinecraftSplashes](https://github.com/ModifiedCommand/MinecraftSplashes) - All Minecraft Splashes for Java Edition in Bedrock JSON format
+
