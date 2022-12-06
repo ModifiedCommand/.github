@@ -11,12 +11,23 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-# [Modified Command](https://github.com/ModifiedCommand)
+<div align="left" style="display: block; margin-left: auto; margin-right: auto;">  
+  
+  <img align="left" src="https://github.com/ModifiedCommand/.github/blob/main/profile/logo.png?raw=true" alt="logo" height="42" width="42">
+  <h1>Modified Command</h1>
+  
+</div>
 
-## Converting Java Texture Packs To Bedrock Projects
-- [ConvertJavaTextureToBedrock](https://github.com/ModifiedCommand/ConvertJavaTextureToBedrock) - Web app for converting Minecraft Java texture packs to Bedrock texture packs
+<div align="left" style="display: block; margin-left: auto; margin-right: auto;">  
+  
+  <img align="left" src="https://github.com/ModifiedCommand/ConvertJavaTextureToBedrock/blob/master/src/img/icon.svg?raw=true" alt="logo" height="32" width="32">
+  <h2>Converting Java Texture Packs To Bedrock Projects</h2>
+  
+  - [ConvertJavaTextureToBedrock](https://github.com/ModifiedCommand/ConvertJavaTextureToBedrock) - Web App for converting Minecraft Java texture packs to Bedrock texture packs
 - [ConvertJavaTextureToBedrockApi](https://github.com/ModifiedCommand/ConvertJavaTextureToBedrockApi) - API for convert Minecraft Java texture packs to Bedrock texture packs
 - [convert-base-api](https://github.com/ModifiedCommand/convert-base-api) - Base API for Convert Java Texture To Bedrock API
+  
+</div>
 
 ## Bedrock Addon Projects
 - [FoodAddon](https://github.com/ModifiedCommand/FoodAddon) - Modified Command Food Addon
