@@ -32,8 +32,11 @@
 ## Bedrock Addon Projects
 - [FoodAddon](https://github.com/ModifiedCommand/FoodAddon) - Modified Command Food Addon
 
-## Other Minecraft Project
+## Papyrus (Map Maker)
 - [PapyrusCS](https://github.com/ModifiedCommand/PapyrusCS) - PapyrusCS renders maps of Minecraft: Bedrock Edition worlds using C#, LevelDB and leaflet.
+- [Papyrus-GUI](https://github.com/ModifiedCommand/Papyrus-GUI) - A graphical user interface for papyrus, made for those who fear the terminal.
+
+## Other Minecraft Projects
 - [SplashText](https://github.com/ModifiedCommand/SplashText) - All Minecraft Splashes for Java Edition in text file format
 - [MinecraftSplashes](https://github.com/ModifiedCommand/MinecraftSplashes) - All Minecraft Splashes for Java Edition in Bedrock JSON format
 
