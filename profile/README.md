@@ -20,7 +20,7 @@
 
 <div align="left" style="display: block; margin-left: auto; margin-right: auto;">  
   
-  <img align="left" src="https://github.com/ModifiedCommand/ConvertJavaTextureToBedrock/blob/master/src/img/icon.svg?raw=true" alt="logo" height="32" width="32">
+  <img align="left" src="https://github.com/ModifiedCommand/ConvertJavaTextureToBedrock/blob/main/src/img/icon.svg?raw=true" alt="logo" height="32" width="32">
   <h2>Converting Java Texture Packs To Bedrock Projects</h2>
   
   - [ConvertJavaTextureToBedrock](https://github.com/ModifiedCommand/ConvertJavaTextureToBedrock) - Web App for converting Minecraft Java texture packs to Bedrock texture packs
