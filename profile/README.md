@@ -26,6 +26,7 @@
   - [ConvertJavaTextureToBedrock](https://github.com/ModifiedCommand/ConvertJavaTextureToBedrock) - Web App for converting Minecraft Java texture packs to Bedrock texture packs
 - [ConvertJavaTextureToBedrockApi](https://github.com/ModifiedCommand/ConvertJavaTextureToBedrockApi) - API for convert Minecraft Java texture packs to Bedrock texture packs
 - [convert-base-api](https://github.com/ModifiedCommand/convert-base-api) - Base API for Convert Java Texture To Bedrock API
+- [jimp-plugins](https://github.com/ModifiedCommand/jimp-plugins) - Plugins for [Jimp](https://github.com/oliver-moran/jimp) for image manipulation and CLI commands for image conversion
   
 </div>
 
